@@ -1,0 +1,2 @@
+echo "we are testing git cherry-pick function"
+sudo mkdir dir
